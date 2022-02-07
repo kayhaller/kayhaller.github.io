@@ -1,0 +1,23 @@
+body{
+   background-color: red; 
+   font-family:  'Monoton', sans-serif;
+}
+/*TYPOGRAPHY */
+h1{font-family: 'Comic Neue', cursive;
+    font-size: 11.089rem;
+    color: #faf3fa7F;
+}
+
+h2{
+    font-size: 6.54rem;
+    color: #fa07dc ;
+
+}
+
+#ingredients{
+    background-color: #fad1fa7F;
+    font-size: 4.069rem;
+}
+#directions{
+    background-color: #af00ac;
+}
