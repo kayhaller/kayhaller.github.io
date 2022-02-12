@@ -1,0 +1,43 @@
+body{
+   background-color: blueviolet; 
+}
+header{
+    min-height: 200px;
+    background-color: #a0ddff; 
+    width: 100%;
+}
+
+#col-1{
+    min-height: 200px;
+    background-color: #758ecd; 
+    width: 25%;
+    float: left;
+}
+
+#col-2{
+    min-height: 200px;
+    background-color: #c1cefe; 
+    width: 25%;
+    float: left;
+}
+
+#col-3{
+    min-height: 200px;
+    background-color: #99acff; 
+    width: 25%;
+    float: left;
+}
+
+#col-4{
+    min-height: 200px;
+    background-color: #7189ff; 
+    width: 25%;
+    float: left;
+}
+
+footer{
+    min-height: 200px;
+    background-color: #624cab; 
+    width: 100%;
+    clear: both;
+}
