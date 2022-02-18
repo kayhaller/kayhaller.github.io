@@ -1,0 +1,63 @@
+body{
+   background-color: #d7d7d7; 
+   font-family:  'roboto condensed', sans-serif;
+   margin: 5%;
+}
+
+img{width: 100% ;
+margin-left: 5%;}
+
+#container
+{
+    background-color: #dbebc0;
+}
+
+header {
+    background-color: #dbebc0;
+    width: auto;
+}
+
+#image{
+    width: 50%;
+    float: left;
+}
+
+/*TYPOGRAPHY */
+h1{font-family: 'Sigmar one', sans-serif ;
+    font-size: 6rem;
+    color: #5b8266;
+    margin-left: 10%;
+}
+
+h2{
+    font-size: 4rem;
+    color: #c57b57 ;
+
+}
+
+ul{
+    font-family: 'roboto condensed';
+    font-size: 2rem;
+    color: #222222;
+}
+ol{
+    font-family: 'mulish';
+    font-size: 2rem;
+    color: #222222;
+}
+
+#ingredients{
+    background-color: #dbebc0;
+    font-size: 3rem;
+    width: 43%;
+    float: left;
+    margin-left: 7%;
+}
+#directions{
+    background-color: #dbebc0;
+    font-size: 2rem;
+  clear: both;
+    width: 90%;
+    margin-left: 10%;
+    
+}
