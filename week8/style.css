@@ -1,0 +1,105 @@
+body{
+   background-color: #d7d7d7; 
+   font-family:  'roboto condensed', sans-serif;
+   margin: auto;
+   
+}
+
+img{width: 80% ;
+margin-left: 5%;
+
+}
+
+#container
+{
+    background-image: linear-gradient(#dbebc0, #5b8266); 
+}
+
+header {
+    background-color: #dbebc0;
+    width: auto;
+}
+
+#image{
+    width: 48%;
+    float: left;
+    padding-top: 2%;
+    padding-left: 4%;
+    
+}
+
+
+/*TYPOGRAPHY */
+h1{font-family: 'Sigmar one', sans-serif ;
+    font-size: 6rem;
+    color: #5b8266;
+ 
+    padding-left: 5%;
+    padding-right: 5%;
+    clear: both;
+    text-align: center;
+    text-shadow: 0 0 50px white
+}
+
+p{
+    padding-left: 15%;
+}
+
+h2{
+    font-size: 4rem;
+    color: #c57b57 ;
+
+}
+
+ul{
+    font-family: 'roboto condensed';
+    font-size: 2rem;
+    color: #222222;
+}
+ol{
+    font-family: 'roboto condensed';
+    font-size: 2rem;
+    color: #222222;
+    font-weight: bold;
+}
+
+#ingredients{
+    background-color: #dbebc0;
+    font-size: 3rem;
+    width: 46%;
+    float: left;
+    padding: 1%;
+}
+#directions{
+    background-color: #dbebc0;
+    font-size: 2rem;
+  clear: both;
+    width: 60%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10%;
+
+    
+}
+
+  
+  
+ 
+  
+ 
+  
+
+/*--------media queries--------*/
+
+/*desktop*/
+@media only screen and (max-width: 1350px) {
+    
+    body {background-color: blue;
+    font-size: 1rem;}   
+}
+
+/*mobile*/
+@media only screen and (max-width: 500px) {
+    
+    body {background-color: red;}   
+}
